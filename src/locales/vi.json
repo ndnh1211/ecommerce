@@ -1,0 +1,128 @@
+{
+    "header": {
+        "home": "Trang chủ",
+        "product": "Sản phẩm",
+        "contact": "Liên hệ",
+        "search": "Tìm kiếm sản phẩm",
+        "login": "Đăng nhập"
+    },
+    "footer": {
+        "title": "Lorem Ipsum chỉ đơn giản là văn bản giả dùng trong ngành in ấn và dàn trang. Lorem Ipsum đã trở thành tiêu chuẩn văn bản giả của ngành từ rất lâu.",
+        "company": {
+            "title": "CÔNG TY",
+            "about": "Giới thiệu",
+            "careers": "Tuyển dụng",
+            "press": "Báo chí",
+            "blog": "Blog",
+            "partners": "Đối tác"
+        },
+        "support": {
+            "title": "HỖ TRỢ",
+            "helpcenter": "Trung tâm trợ giúp",
+            "safety": "Thông tin an toàn",
+            "cencellation": "Tùy chọn hủy",
+            "contactUs": "Liên hệ chúng tôi",
+            "accessibility": "Khả năng tiếp cận"
+        },
+        "stayUpdated": {
+            "title": "CẬP NHẬT MỚI NHẤT",
+            "desc": "Đăng ký nhận bản tin để có cảm hứng và ưu đãi đặc biệt.",
+            "placeholder": "Email của bạn"
+        },
+        "copyright": {
+            "title": "Đã đăng ký bản quyền.",
+            "privacy": "Chính sách bảo mật",
+            "terms": "Điều khoản",
+            "sitemap": "Sơ đồ trang"
+        }
+    },
+    "categories": {
+        "Vegetables": "Rau củ",
+        "Fruits": "Trái cây",
+        "Drinks": "Đồ uống",
+        "Instant": "Đồ ăn liền",
+        "Dairy": "Sản phẩm từ sữa",
+        "Bakery": "Bánh mì & Bánh ngọt",
+        "Grains": "Ngũ cốc"
+    },
+    "action": {
+        "add": "Thêm",
+        "addToCart": "Thêm vào giỏ hàng",
+        "buyNow": "Mua Ngay",
+        "continue": "Tiếp tục mua sắm",
+        "change": "Thay đổi",
+        "cash": "Thanh toán khi nhận hàng",
+        "onl": "Thanh toán trực tuyến",
+        "placeOrder": "Đặt hàng",
+        "addAddress": "Thêm địa chỉ"
+    },
+    "productDetail": {
+        "tax": "Bao gồm thuế",
+        "about": "Thông tin sản phẩm"
+    },
+    "cart": {
+        "title": "Giỏ hàng",
+        "items": "Sản phẩm",
+        "productDetail": "Chi tiết sản phẩm",
+        "subtotal": "Tạm tính",
+        "action": "Thao tác",
+        "size": "Kích cỡ",
+        "qty": "Số lượng",
+        "summary": "Tóm tắt đơn hàng",
+        "delivery": "Địa chỉ giao hàng",
+        "noAddress": "Không tìm thấy địa chỉ",
+        "payMethod": "Phương thức thanh toán",
+        "price": "Giá",
+        "fee": "Phí vận chuyển",
+        "free": "Miễn phí",
+        "tax": "Thuế",
+        "total": "Tổng cộng"
+    },
+    "home": {
+        "title": "Sự Tươi Ngon Bạn Có Thể Tin Tưởng, Tiết Kiệm Bạn Sẽ Yêu Thích!",
+        "button": "Mua Ngay",
+        "explore": "Khám Phá Ưu Đãi",
+        "categories": {
+            "title": "Danh Mục",
+            "Vegetables": "Rau Củ",
+            "Fruits": "Trái Cây",
+            "Drinks": "Đồ Uống",
+            "Instant": "Đồ Ăn Liền",
+            "Dairy": "Sản Phẩm Từ Sữa",
+            "Bakery": "Bánh Mì & Bánh Ngọt",
+            "Grains": "Ngũ Cốc"
+        },
+        "bestSeller": "SẢN PHẨM BÁN CHẠY",
+        "why": {
+            "title": "Tại Sao Chọn Chúng Tôi?",
+            "Fastest Delivery": "Giao Hàng Nhanh Nhất",
+            "Groceries delivered in under 30 minutes.": "Tạp hóa được giao trong vòng dưới 30 phút.",
+            "Freshness Guaranteed": "Đảm Bảo Tươi Ngon",
+            "Fresh produce straight from the source.": "Nông sản tươi được lấy trực tiếp từ nguồn.",
+            "Affordable Prices": "Giá Cả Hợp Lý",
+            "Quality groceries at unbeatable prices.": "Hàng hóa chất lượng với giá không thể rẻ hơn.",
+            "Trusted by Thousands": "Được Hàng Ngàn Người Tin Dùng",
+            "Loved by 10,000+ happy customers.": "Được hơn 10.000 khách hàng hài lòng tin tưởng."
+        },
+        "newsLetter": {
+            "title": "Đừng Bỏ Lỡ Ưu Đãi!",
+            "description": "Đăng ký để nhận ưu đãi mới nhất, hàng mới về và khuyến mãi độc quyền",
+            "email": "Nhập email của bạn",
+            "subscribe": "Gửi"
+        }
+    },
+    "contact": {
+        "title": "Liên Hệ",
+        "info": "Thông Tin Liên Hệ",
+        "desc": "Điền vào biểu mẫu hoặc liên hệ trực tiếp với tôi qua thông tin bên dưới.",
+        "phone": "Số Điện Thoại",
+        "address": "Địa Chỉ",
+        "form": {
+            "name": "Tên Của Bạn",
+            "email": "Email",
+            "subject": "Chủ Đề",
+            "message": "Tin Nhắn",
+            "button": "Gửi"
+        }
+    }
+}

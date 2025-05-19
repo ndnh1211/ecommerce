@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@plugin "daisyui" {
+  themes: all;
+}
+
+@layer base {
+  [data-theme] {
+    --color-primary: #4fbf8b !important;
+  }
+}
+
+#root,
+html,
+body {
+  padding: 0 !important;
+  margin: 0 !important;
+  text-align: left;
+}
+
+@theme {
+  --color-primary: #4fbf8b;
+  --color-primary-dull: #44ae7c;
+}

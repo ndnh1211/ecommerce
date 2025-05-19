@@ -1,0 +1,128 @@
+{
+    "header": {
+        "home": "Home",
+        "product": "Product",
+        "contact": "Contact",
+        "search": "Search Product",
+        "login": "Login"
+    },
+    "footer": {
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text",
+        "company": {
+            "title": "COMPANY",
+            "about": "About",
+            "careers": "Careers",
+            "press": "Press",
+            "blog": "Blog",
+            "partners": "Partners"
+        },
+        "support": {
+            "title": "SUPPORT",
+            "helpcenter": "Help Center",
+            "safety": "Safety Information",
+            "cencellation": "Cencellation Options",
+            "contactUs": "Contact Us",
+            "accessibility": "Accessibility"
+        },
+        "stayUpdated": {
+            "title": "STAY UPDATED",
+            "desc": "Subscribe to our newsletter for inspiration and special offers.",
+            "placeholder": "Your email"
+        },
+        "copyright": {
+            "title": "All rights reserved.",
+            "privacy": "Privacy",
+            "terms": "Terms",
+            "sitemap": "Sitemap"
+        }
+    },
+    "categories": {
+        "Vegetables": "Vegetables",
+        "Fruits": "Fruits",
+        "Drinks": "Drinks",
+        "Instant": "Instant",
+        "Dairy": "Dairy",
+        "Bakery": "Bakery",
+        "Grains": "Grains"
+    },
+    "action": {
+        "add": "Add",
+        "addToCart": "Add to Cart",
+        "buyNow": "Buy now",
+        "continue": "Continue Shopping",
+        "change": "Change",
+        "cash": "Cash On Delivery",
+        "onl": "Online Payment ",
+        "placeOrder": "Place Order",
+        "addAddress": "Add address"
+    },
+    "productDetail": {
+        "tax": "inclusive of all taxes",
+        "about": "About Product"
+    },
+    "cart": {
+        "title": "Shopping Cart",
+        "items": "Items",
+        "productDetail": "Product Detail",
+        "subtotal": "Subtotal",
+        "action": "Action",
+        "size": "Size",
+        "qty": "Qty",
+        "summary": "Order Summary",
+        "delivery": "Delivery Address",
+        "noAddress": "No address found",
+        "payMethod": "Payment Method",
+        "price": "Price",
+        "fee": "Shipping Fee",
+        "free": "Free",
+        "tax": "Tax",
+        "total": "Total Amount"
+    },
+    "home": {
+        "title": "Freshness You Can Trust, Savings You will Love!",
+        "button": "Shop Now",
+        "explore": "Explore deal",
+        "categories": {
+            "title": "Categories",
+            "Vegetables": "Vegetables",
+            "Fruits": "Fruits",
+            "Drinks": "Drinks",
+            "Instant": "Instant",
+            "Dairy": "Dairy",
+            "Bakery": "Bakery",
+            "Grains": "Grains"
+        },
+        "bestSeller": "BEST SELLERS",
+        "why": {
+            "title": "Why Choose Us?",
+            "Fastest Delivery": "Fastest Delivery",
+            "Groceries delivered in under 30 minutes.": "Groceries delivered in under 30 minutes.",
+            "Freshness Guaranteed": "Freshness Guaranteed",
+            "Fresh produce straight from the source.": "Fresh produce straight from the source.",
+            "Affordable Prices": "Affordable Prices",
+            "Quality groceries at unbeatable prices.": "Quality groceries at unbeatable prices.",
+            "Trusted by Thousands": "Trusted by Thousands",
+            "Loved by 10,000+ happy customers.": "Loved by 10,000+ happy customers."
+        },
+        "newsLetter": {
+            "title": "Never Miss a Deal!",
+            "description": "Subscribe to get the latest offers, new arrivals, and exclusive discounts",
+            "email": "Enter your email",
+            "subscribe": "Subscribe"
+        }
+    },
+    "contact": {
+        "title": "Contact",
+        "info": "Contact Information",
+        "desc": "Fill out the form or contact me directly using the information below.",
+        "phone": "Phone Number",
+        "address": "Address",
+        "form": {
+            "name": "Your Name",
+            "email": "Email",
+            "subject": "Subject",
+            "message": "Message",
+            "button": "Send"
+        }
+    }
+}
